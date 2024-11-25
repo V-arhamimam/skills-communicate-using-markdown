@@ -19,7 +19,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Add an image
+## Step 2: Add an image looks like tesla car
 
 _Great job adding headers to the file :sparkles:_
 
